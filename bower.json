@@ -1,0 +1,16 @@
+{
+  "name": "workspace",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ajaxorg/demo-project",
+  "authors": [
+    "Eric Soyke <soykes@yahoo.com>"
+  ],
+  "description": "Job Finder app",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "jquery": "~2.1.3",
+    "angular": "~1.3.15",
+    "bootstrap": "~3.3.4"
+  }
+}
